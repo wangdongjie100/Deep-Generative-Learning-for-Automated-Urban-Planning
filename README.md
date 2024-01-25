@@ -2,22 +2,22 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Stars](https://img.shields.io/github/stars/wangdongjie100/Deep-Generative-Learning-for-Automated-Urban-Planning?style=social)](https://img.shields.io/github/stars/wangdongjie100/Deep-Generative-Learning-for-Automated-Urban-Planning?style=social)
 
-[![Papers](https://img.shields.io/badge/PaperNumber-180-blue)](https://img.shields.io/badge/PaperNumber-185-blue)
+[![Papers](https://img.shields.io/badge/PaperNumber-8-blue)](https://img.shields.io/badge/PaperNumber-8-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 
 
 Urban planning is vital for building up a sustainable and vigorous community. As a complicated and time-consuming task, traditional practice heavily depends on experts' personal experiences. The variance among urban planners may result in biases and implausible solutions. Thanks to the explosive development of deep learning and internet-of-things, the handful of methodologies and ubiquitously available geo-social, urban, and mobile data provide us with a new data-driven perspective to re-investigate urban planning.
 
-<div style="text-align:center;">
-<img src="./urban.png" alt="urban planning" width="500" height="250" >
-</div>
+![urban](./urban.png)
+
 
 After analyzing the conventional urban planning process, it becomes evident that an excellent urban plan can address both human requirements and environmental constraints to foster a harmonious and environmentally friendly solution. Thus, based on this observation, we propose a generic automated urban planning framework, as depicted in the following figure.
 
-<div style="text-align:center;">
-<img src="./automated_urban_plan.png" alt="automated urban planner" width="600" height="300" >
-</div>
+
+![automated urban plan](./automated_urban_plan.png)
+
+
 
 
 
@@ -25,9 +25,9 @@ This framework includes two key components: Perception and Generation. The perce
 
 The primary challenge in this field lies in the clear definition of urban planning. In our research, we introduce a 3-dimensional tensor to represent the land-use configuration, illustrated as follows:
 
-<div style="text-align:center;">
-<img src="./land-use.png" alt="land-use plan" width="750" height="400" >
-</div>
+![land-use](./land-use.png)
+
+
 To be more specific, for an empty geographical area, we divide it into N*N squares. Then, we count the number of Points of Interest (POIs) according to their categories to create a distribution. Subsequently, we stack these distributions together to form the land-use configuration plan.
 
 ---
