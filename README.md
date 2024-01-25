@@ -37,7 +37,7 @@ We have published a series of papers, and we will outline the progression as fol
 <h3><b>1. Solely considering environmental constraints.</b></h3>
 
 * **(SIGSPATIAL 2020)** Reimagining City Configuration: Automated Urban Planning via Adversarial Learning
-[[Paper](https://arxiv.org/abs/2008.09912)] [[Code&Data](https://www.dropbox.com/scl/fo/7a416ys4njgwa25nqjjzb/h?dl=0&rlkey=sdl5e8eckeoe0w0lsykdbpl6p)]
+[[Paper](https://arxiv.org/abs/2008.09912)] [[Code&Data](https://www.dropbox.com/scl/fo/hudgsilk6myqfxuu6lz3a/h?dl=0&rlkey=610fr3k0pavza3bag51gzihvb)]
 
 * **(TSAS)** Automated Urban Planning for Reimagining City Configuration via Adversarial Learning: Quantification, Generation, and Evaluation 
 [[Paper](https://arxiv.org/abs/2112.14699)]
@@ -46,7 +46,7 @@ We have published a series of papers, and we will outline the progression as fol
 <h3><b>2. Considering both environmental constraints and human requirements.</b></h3>
 
 * **(ICDM 2021)** Deep Human-guided Conditional Variational Generative Modeling for Automated Urban Planning
-[[Paper](https://arxiv.org/pdf/2110.07717.pdf)] [[Code&Data](https://www.dropbox.com/scl/fo/hudgsilk6myqfxuu6lz3a/h?dl=0&rlkey=610fr3k0pavza3bag51gzihvb)]
+[[Paper](https://arxiv.org/pdf/2110.07717.pdf)] [[Code&Data](https://www.dropbox.com/scl/fo/7a416ys4njgwa25nqjjzb/h?dl=0&rlkey=sdl5e8eckeoe0w0lsykdbpl6p)]
 
 
 
