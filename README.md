@@ -62,7 +62,7 @@ Hierarchical Reinforced Urban Planning: Jointly Steering Region and Block Config
 
 
 * **(SDM 2024)** Dual-stage Flows-based Generative Modeling for Traceable Urban Planning
-[[Paper](https://arxiv.org/abs/2310.02453)] 
+[[Paper](https://arxiv.org/abs/2310.02453)] [[Code](https://www.dropbox.com/scl/fo/l47fzz6o0gqietb2mdiac/h?rlkey=mx5znu81apmgoqqnmspt4rxjy&dl=0)] [[Data](https://www.dropbox.com/scl/fo/yqd07zxowwxndpbedzilb/h?rlkey=t6anjroiw1qe821j4a900xkgd&dl=0)]
 
 
 
